@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "murmure";
+  src: url("../public/fonts/murmure/LeMurmure-Regular.woff");
+}
+
+@font-face {
+  font-family: "apfel-grotezk";
+  src: url("../public/fonts/apfel-grotezk/ApfelGrotezk-Regular.woff");
+}
+
+body{
+  background-color: #FF00D6;
+  ;
+}
